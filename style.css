@@ -1,0 +1,32 @@
+body {
+  padding: 20px;
+}
+.controles {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+#menu {
+  min-width: 220px;
+}
+#posts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.post-card {
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  padding: 15px;
+  width: 280px;
+}
+.post-card h6 {
+  text-transform: capitalize;
+  margin-bottom: 8px;
+}
+.post-card p {
+  font-size: 0.875rem;
+  color: #555;
+  margin: 0;
+}

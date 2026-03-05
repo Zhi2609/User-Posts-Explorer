@@ -8,5 +8,5 @@ Una aplicación web sencilla que conecta con una API externa para visualizar pub
 * **Diseño con Bootstrap:** Utiliza tarjetas (Cards) de Bootstrap para mostrar el título y contenido de cada post.
 
 ## 🛠️ Tecnologías
-* **HTML5 & Bootstrap 5:** Para la estructura y el diseño rápido.
+* **HTML5:** Para la estructura y el diseño rápido.
 * **JavaScript (Fetch API):** Para consumir datos de `jsonplaceholder.typicode.com`.
