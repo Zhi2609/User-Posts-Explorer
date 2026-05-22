@@ -1,5 +1,7 @@
 # User Posts Explorer 🚀
 
+> ⚠️ **AVISO**: Este proyecto es un **trabajo escolar** y no debe ser tratado como software profesional o listo para producción. Puede contener errores, malas prácticas y código poco optimizado. Úsalo bajo tu propia responsabilidad.
+
 Una aplicación web sencilla que conecta con una API externa para visualizar publicaciones de usuarios y sus interacciones de forma dinámica.
 
 ## ✨ ¿Qué hace este proyecto?
